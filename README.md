@@ -6,7 +6,7 @@ Racing Car Dashboard
 ![Car Gauge](https://github.com/cppqtdev/modern-car-dashboard-/blob/main/screenshot/Screenshot%202023-08-13%20212900.png)
 
 <h3 align='center'>
-  👩‍💻 Aksh Singh 👩‍💻
+  👩‍💻 Yasir Shahzad 👩‍💻
 </h3>
 
 <h4 align='center'>
